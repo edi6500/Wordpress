@@ -1,0 +1,36 @@
+# Translation of Themes - OnePirate in French (France)
+# This file is distributed under the same license as the Themes - OnePirate package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-06-27 09:16:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - OnePirate\n"
+
+#. Theme Name of the plugin/theme
+msgid "OnePirate"
+msgstr "OnePirate"
+
+#. Description of the plugin/theme
+msgid "One Pirate is a beautiful one-page WordPress theme, with a colorful and playful design, nice animations, full-screen layout, and elegant parallax effect. The theme comes with a full-width header and with catchy icons. Overall, One Pirate has a modern and interactive look, and a smooth transition from a section to another."
+msgstr "Un pirate est un beau thème de WordPress en une page, avec une conception colorée et ludique, des jolies animations, une mise en page en plein écran, et un effet parralax élégant. Le thème est fourni avec un en-tête en pleine largeur et avec des icônes accrocheurs. Dans l'ensemble, One Pirate a un aspect moderne et interactif, et une transition harmonieuse d'une section à l'autre."
+
+#: functions.php:57
+msgid "Notification"
+msgstr "Notification"
+
+#: functions.php:46 functions.php:74
+msgid "This child theme is not maintained anymore, consider using the parent theme %1$s or check-out our latest free one-page theme: %2$s."
+msgstr "Ce thème enfant n’est plus maintenu, pensez à utiliser le thème parent %1$s ou découvrez notre dernier thème gratuit en une page : %2$s."
+
+#. Author URI of the plugin/theme
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the plugin/theme
+msgid "Themeisle"
+msgstr "Themeisle"

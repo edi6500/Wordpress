@@ -1,0 +1,17 @@
+/*
+Theme Name:Theme enfant
+Description:Theme enfant
+Author:edris
+Author URI: ddee
+Template:shop-isle
+Version: 0.1.0
+*/
+
+
+tr:hover { background: #E6E6FA !important; }
+.css-events-list table.events-table td{
+	padding:10px;
+}
+span.fn{
+	padding-left:10px;
+}
